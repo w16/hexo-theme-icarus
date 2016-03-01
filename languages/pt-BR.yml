@@ -1,0 +1,30 @@
+index:
+    home: 'home'
+    search: 'Buscar'
+    archive: 'arquivo'
+    category: 'categoria'
+    uncategorized: 'sem categoria'
+    tag: 'tag'
+nav:
+    next: 'Próximo'
+    prev: 'Anterior'
+    older: 'Posts Mais Antigos'
+    newer: 'Posts Mais Novos'
+widget:
+    recents: 'recentes'
+    archives: 'arquivos'
+    categories: 'categorias'
+    links: 'links'
+    tags: 'tags'
+    tag_cloud: 'Núvem de tag'
+article:
+    more: 'Leia Mais'
+    comments: 'Comentários'
+    share: 'Compartilhar'
+    catalogue: 'Catálogo'
+profile:
+    follow: 'SEGUIR'
+    post: 'post'
+    tag: 'tag'
+    posts: 'posts'
+    tags: 'tags'
