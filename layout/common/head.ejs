@@ -37,6 +37,8 @@
         <link rel="icon" href="<%- url_for(theme.customize.favicon) %>" />
     <% } %>
 
+    <%- autoCanonical(config, page) %>
+
     <%- css('vendor/font-awesome/css/font-awesome.min') %>
     <%- css('vendor/open-sans/styles') %>
     <%- css('vendor/source-code-pro/styles') %>
